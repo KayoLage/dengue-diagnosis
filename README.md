@@ -6,9 +6,9 @@ Este repositório contém o projeto de desenvolvimento de um modelo de **Deep Le
 O objetivo principal é aplicar técnicas de Processamento Digital de Imagens e Redes Neurais Convencionais (CNNs) para identificar padrões característicos da doença, visando otimizar o tempo de diagnóstico.
 
 ### Estrutura do Repositório
-* \`SCRIPTS_INF493.ipynb\`: Notebook principal com a extração de características e treinamento do modelo.
-* \`RELATORIO-INF493.pdf\`: Documentação técnica detalhada do projeto.
-* \`data/\`: Pasta destinada ao conjunto de dados (datasets).
+* `SCRIPTS_INF493.ipynb`: Notebook principal com a extração de características e treinamento do modelo.
+* `RELATORIO-INF493.pdf`: Documentação técnica detalhada do projeto.
+* `data/`: Pasta destinada ao conjunto de dados (datasets).
 
 ## 🚀 Tecnologias Utilizadas
 * **Python**
@@ -18,10 +18,10 @@ O objetivo principal é aplicar técnicas de Processamento Digital de Imagens e 
 
 ## 🔧 Como Executar
 1. Clone este repositório:
-   \`\`\`bash
+   ```
    git clone https://github.com/KayoLage/dengue-diagnosis.git
-   \`\`\`
-2. Abra o arquivo \`SCRIPTS_INF493.ipynb\` no Google Colab.
+   ```
+2. Abra o arquivo `SCRIPTS_INF493.ipynb` no Google Colab.
 3. Certifique-se de fazer o upload dos dados necessários conforme descrito no notebook.
 
 ## 👥 Autor
