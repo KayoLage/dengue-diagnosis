@@ -1,4 +1,3 @@
-%%bash
 # Dengue Diagnosis 🦟
 
 Este repositório contém o projeto de desenvolvimento de um modelo de **Deep Learning** para o diagnóstico auxiliar de dengue a partir de imagens de exames ou dados clínicos, desenvolvido para a disciplina **INF493 - Tópicos Especiais em Computação**.
