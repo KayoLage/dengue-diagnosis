@@ -28,9 +28,3 @@ O objetivo principal é aplicar técnicas de Processamento Digital de Imagens e 
 * **Kayo Lage** - *Trabalho Final - INF493*
 
 ---
-EOF
-
-# Comandos para subir para o GitHub (Certifique-se de estar na pasta do repo)
-git add README.md
-git commit -m "docs: adicionando README.md com informações do projeto"
-git push origin main
